@@ -60,7 +60,35 @@ Os níveis cognitivos dos objetivos de aprendizagem nos níveis K2, K3 e K4 são
 - K3: Aplicar
 - K4: Analisar
 
-As definições de todos os termos listados como conceitos-chave logo abaixo dos títulos dos capítulos
-devem ser lembradas (K1), mesmo que não explicitamente mencionadas nos objetivos de
-aprendizagem.
+As definições de todos os termos listados como conceitos-chave logo abaixo dos títulos dos capítulos devem ser lembradas (K1), mesmo que não explicitamente mencionadas nos objetivos de aprendizagem.
 
+## CAP.01: Tarefas do Analista de Teste no Processo de Teste [150 min]
+
+### Palavras-chave
+análise de teste, base de teste, caso de teste de alto nível, caso de teste de baixo nível, condição de teste, critérios de saída, dados de teste, execução de teste, implementação de teste, modelagem de teste, procedimento de teste, programação de execução de teste, suíte de teste, teste.
+
+### Objetivos de Aprendizagem
+1.1 Introdução
+
+    Sem objetivos de aprendizagem
+
+1.2 Teste no ciclo de vida de desenvolvimento de software
+
+    TA-1.2.1 (K2) Explicar como e por que o tempo e o nível de envolvimento do Analista de Teste variam ao trabalhar com diferentes modelos de ciclo de vida de desenvolvimento de software
+
+1.3 Análise de teste
+
+    TA-1.3.1 (K2) Resumir as tarefas do Analista de Teste ao realizar as atividades de análise
+
+1.4 Modelagem de teste
+
+    TA-1.4.1 (K2) Explicar por que as condições do teste devem ser entendidas pelos stakeholders
+
+    TA-1.4.2 (K4) Para um determinado cenário de projeto, selecionar o nível de modelagem apropriada para casos de teste (nível superior ou baixo)
+1.5 Implementação do teste
+
+    TA-1.5.1 (K2) Resumir as tarefas do Analista de Teste ao realizar as atividades de implementação de teste
+
+1.6 Execução do teste
+
+    TA-1.6.1 (K2) Resumir as tarefas do Analista de Teste ao conduzir atividades de execução de teste
